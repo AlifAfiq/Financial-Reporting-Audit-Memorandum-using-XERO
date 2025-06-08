@@ -19,6 +19,28 @@ This project demonstrates the preparation of key financial statements and an aud
 - Detected and corrected discrepancies through manual inspection and the XERO search function.
 - Prepared a formal memorandum reporting the investigation, findings, and corrective actions.
 
+------
+
+## Financial Report
+
+### Balance Sheet
+
+![Balance Sheet](Asset/Screenshot 2025-06-08 at 3.40.52 PM.png)
+
+### Trial Balance
+
+![Trial Balance Page 1](Asset/Screenshot 2025-06-08 at 3.41.24 PM.png)
+![Trial Balance Page 2](Asset/Screenshot 2025-06-08 at 3.41.33 PM.png)
+
+### Profit and Loss Statement
+
+![Profit and Loss Statement page 1](Asset/Screenshot 2025-06-08 at 3.41.47 PM.png)
+![Profit and Loss Statement page 2](Asset/Screenshot 2025-06-08 at 3.42.01 PM.png)
+
+### Aged Receivables Summary
+
+![Aged Receivables Summary page 1](Asset/Screenshot 2025-06-08 at 3.42.12 PM.png)
+
 -----
 
 ## Notable Issues Investigated
@@ -59,6 +81,8 @@ Upon further review, it was discovered that the payment dated 20 February 2022 w
 Corrective Action:
 Navigate to the invoice via the search function, click ‘Add Payment’, and record the payment under the account ‘600 – Business Cheque Account’. Once the payment is recorded, the invoice will reflect a $0 balance, and both affected accounts will be updated accordingly.
 
+![Add Payment](Asset/Screenshot 2025-06-08 at 3.42.21 PM.png)
+
 Implications:
 This error impacts the Revenue Cycle. Stock levels may decrease when goods are delivered, but revenue continues to be overstated. The overstatement of Revenue Received in Advance inflates liabilities and, indirectly, total assets, giving a false impression of financial strength. This misrepresentation could lead to poor operational decisions, such as over-borrowing due to an inflated asset-to-liability ratio.
 
@@ -67,6 +91,8 @@ An excessive amount of $2,476 was found in 210 – Electrical Purchases. The dis
 
 Corrective Action:
 Open the bill using the search tool, click ‘Bill Options’ > ‘Edit’, and adjust the quantity or unit price according to the correct source document. Once corrected, the bill and associated account totals will be accurately reflected.
+
+![Edit Bill Option](Asset/Screenshot 2025-06-08 at 3.42.32 PM.png)
 
 Implications:
 This error affects the Expenditure Cycle. It falsely suggests that fewer inventory items were received, while the full payment was made. This could lead to unnecessary reordering, resulting in excess inventory and inefficient stock management.
